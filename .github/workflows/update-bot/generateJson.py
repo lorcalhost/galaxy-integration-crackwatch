@@ -11,21 +11,16 @@ if __name__ == '__main__':
     page = 0
     while True:
         r = requests.get(MAIN_URL, params={
-                         'page': page, 'sort_by': 'crack_date', 'is_cracked': 'true'})
+                         'page': page, 'sort_by': 'crack_date', 'is_cracked': 'true', 'is_aaa': 'true'})
         data = json.loads(r.text)
         if not data:
             break
         for game in data:
-            del game['NFOsCount']
-            del game['commentsCount']
-            del game['followersCount']
-            del game['protections']
-            del game['versions']
-            del game['groups']
-            del game['updatedAt']
-            del game['releaseDate']
-            del game['crackDate']
-            games_list.append(game)
+            x = {
+                "slug": game["slug"],
+                "title": game["title"]
+            }
+            games_list.append(x)
         page += 1
         time.sleep(1)
 

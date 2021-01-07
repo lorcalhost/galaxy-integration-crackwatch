@@ -2,7 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+# VSCode
 .history/
+.vscode/
 
 # C extensions
 *.so
