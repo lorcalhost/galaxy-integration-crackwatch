@@ -1,5 +1,11 @@
+<p align="center">
+  <img src="https://i.imgur.com/EIDQK8I.png" />
+</p>
+
 # GOG Galaxy integration for crackwatch.com
-This plugin allows you to list as owned all the AAA titles marked as cracked on [crackwatch.com](https://crackwatch.com/) in your GOG Galaxy 2.0 launcher.   
+This plugin allows you to list as owned all the AAA titles marked as cracked on [crackwatch.com](https://crackwatch.com/) in your GOG Galaxy 2.0 launcher.  
+  
+You can use this integration to keep track of the games you previously played or want to play that you do not currently own, or to keep an eye on the game cracking scene.
   
 >*Crackwatch currently lists a total of **17796** cracked games of which **1189** are AAA.*  
 >*Due to there being so many listed cracked games, the GOG client would continuously crash when trying to import over 17k games, therefore I decided to focus this project on AAA titles only*
