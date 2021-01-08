@@ -24,7 +24,7 @@ Along with you detailed problem description, you may need to attach plugin log f
 - MacOS: `/Users/Shared/GOG.com/Galaxy/Logs`
 
 For example:
-`C:\ProgramData\GOG.com\Galaxy\logs\crackwatch-6eae417c-09eb-e003-5d14-f767569afd24.log`
+`C:\ProgramData\GOG.com\Galaxy\logs\plugin-test-6eae417c-09eb-e003-5d14-f767569afd24.log`
 
 ## Development
 
