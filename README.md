@@ -2,10 +2,10 @@
   <img src="https://i.imgur.com/EIDQK8I.png" />
 </p>
 
-# GOG Galaxy integration for crackwatch.com
+# GOG Galaxy integration for Crackwatch
 This plugin allows you to list as owned all the AAA titles marked as cracked on [crackwatch.com](https://crackwatch.com/) in your GOG Galaxy 2.0 launcher.  
   
-You can use this integration to keep track of the games you previously played or want to play that you do not currently own, or to keep an eye on the game cracking scene.
+You can use this integration to keep an eye on the game cracking scene, keep track of games you do not currently own and you previously played or want to play in the future.
   
 >*Crackwatch currently lists a total of **17796** cracked games of which **1189** are AAA.*  
 >*Due to there being so many listed cracked games, the GOG client would continuously crash when trying to import over 17k games, therefore I decided to focus this project on AAA titles only*
@@ -17,6 +17,17 @@ You can use this integration to keep track of the games you previously played or
 	- MacOS: `${HOME}/Library/Application Support/GOG.com/Galaxy/plugins/installed/<my-plugin-name>`
 3. Unpack the downloaded file inside this folder.
 4. Restart GOG Galaxy Client.
+
+## Activation
+Once you have followed all the installation steps you can open your GOG Galaxy client and follow these steps:
+1. Click on the *gear icon* on the top left of the application  
+![Gear icon](https://i.imgur.com/vgFYl0S.png)
+2. Click on *Settings*
+3. Scroll down in the *Integrations* page, you will find a community integration called *Testing purposes*  
+![Click connect](https://i.imgur.com/ymHPeSO.png)
+4. Click on *Connect* next to Testing purposes  
+5. A pop-up will open, click on *Connect*  
+6. Congrats, the integration is now succssfully activated! 🎉
 
 ## Issue reporting
 Along with you detailed problem description, you may need to attach plugin log files located at:
