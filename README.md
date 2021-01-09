@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://i.imgur.com/EIDQK8I.png" />
+  	<img height="200px" width="200px" src="https://i.imgur.com/EIDQK8I.png" />
+	<img height="200px" width="200px" src="https://crackwatch.com/icons/crackwatch.svg" />
 </p>
 
 # GOG Galaxy integration for Crackwatch
@@ -15,7 +16,7 @@ You can use this integration to keep an eye on the game cracking scene, keep tra
 2. Navigate to the GOG Galaxy plugins folder:
 	- Windows: `%LOCALAPPDATA%\GOG.com\Galaxy\plugins\installed\<my-plugin-name>`
 	- MacOS: `${HOME}/Library/Application Support/GOG.com/Galaxy/plugins/installed/<my-plugin-name>`
-3. Unpack the downloaded file inside this folder.
+3. Unpack the downloaded zip file inside this folder.
 4. Restart GOG Galaxy Client.
 
 ## Activation
