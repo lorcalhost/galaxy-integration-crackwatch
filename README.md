@@ -1,6 +1,6 @@
 <p align="center">
   	<img height="200px" width="200px" src="https://i.imgur.com/EIDQK8I.png" />
-	<img height="200px" width="200px" src="https://crackwatch.com/icons/crackwatch.svg" />
+	<img height="200px" width="200px" src="https://i.imgur.com/2htRs8R.png" />
 </p>
 
 # GOG Galaxy integration for Crackwatch
